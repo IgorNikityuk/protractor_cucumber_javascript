@@ -1,1 +1,8 @@
-Simple project to test selection on chart on WEB-site page using Protractor Cucumber (+ Selenium WebDriver), Chai as promised
+Template for automation testing using: selenium webdriver + protractor + cucumber + javascript
+
+##Run next commands##
+
+npm install --save-dev
+
+protractor tests/protractor-config.js
+
